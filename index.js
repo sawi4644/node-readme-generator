@@ -21,12 +21,7 @@ inquirer.prompt([
       name: 'description',
       message: 'Write a description about your project',
     },
-    {
-      type: 'checkbox',
-      name: 'toc',
-      message: 'What would you like to include in your table of contents?',
-      choices: ['Installation', 'Usage', 'Contribution', 'License', 'Test', 'Questions']
-    },
+
     {
       type: 'input',
       name: 'installation',
@@ -35,22 +30,33 @@ inquirer.prompt([
     {
       type: 'input',
       name: 'usage',
-      message: 'Usage section:',
+      message: 'How does one use your application?',
     },
+    {
+        type: 'checkbox',
+        name: 'license',
+        message: 'Please select one license you wish to use:',
+        choices: ['MIT', 'Mozilla Public License 2.0', 'Creative Commons License Family', 'Do What The F*ck You Want To Public License' ]
+      },
     {
       type: 'input',
       name: 'contribution',
-      message: 'Did anyone work on this with you?',
+      message: 'Are you looking for anyone to contribute?',
     },
     {
         type: 'input',
         name: 'test',
-        message: 'Did anyone work on this with you?',
+        message: 'Command that will run code:',
       },
       {
         type: 'input',
-        name: 'contribution',
-        message: 'Did anyone work on this with you?',
+        name: 'github',
+        message: 'What is your GitHub username?',
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'What is your Email?',
       },
   ]);
 }
