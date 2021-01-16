@@ -12,7 +12,20 @@ function generateMarkdown(data) {
   - [License](#license)
   - [Questions](#questions)
   ## Description
- 
+  ${data.description}
+  ## Installation
+  ${data.installation}
+  ## Usage
+  ${data.usage}
+  ## Contribution
+  ${data.contribution}
+  ## Test
+  ${data.test}
+  ## License
+  ${license}
+  ## Contact for Questions
+  - Github: https://github.com/${data.github}
+  - Email: ${data.email}
   `;
 }
 
