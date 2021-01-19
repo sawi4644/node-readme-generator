@@ -30,7 +30,7 @@ inquirer.prompt([
       message: 'How does one use your application?',
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Please select one license you wish to use:',
         choices: ['MIT', 'Mozilla', 'Do What The F*ck You Want To Public License' ]
