@@ -449,7 +449,7 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   ## Test
   ${data.test}
   ## License
-  ${data.license}
+  ${license}
   ## Contact for Questions
   - Github: https://github.com/${data.github}
   - Email: ${data.email}
