@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
   # ${data.title}
-  ${badge}
+  
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -22,7 +22,7 @@ function generateMarkdown(data) {
   ## Test
   ${data.test}
   ## License
-  ${license}
+  
   ## Contact for Questions
   - Github: https://github.com/${data.github}
   - Email: ${data.email}
@@ -30,4 +30,4 @@ function generateMarkdown(data) {
 }
 
 
-export default generateMarkdown;
+module.exports = generateMarkdown;
