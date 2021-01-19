@@ -33,7 +33,7 @@ inquirer.prompt([
         type: 'checkbox',
         name: 'license',
         message: 'Please select one license you wish to use:',
-        choices: ['MIT', 'Mozilla Public License 2.0', 'Creative Commons License Family', 'Do What The F*ck You Want To Public License' ]
+        choices: ['MIT', 'Mozilla', 'Do What The F*ck You Want To Public License' ]
       },
     {
       type: 'input',
