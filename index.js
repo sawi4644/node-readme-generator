@@ -62,24 +62,3 @@ inquirer.prompt([
   .then(()=> console.log('Sucess you wrote a readme.md!'))
   .catch((err)=> console.error(err));
 
-
-// questions();
-
-// function to write README file
-// function writeToFile(fileName, data) {
-// }
-
-// function to initialize program
-// function init() {
-//         console.log("Hi User!");
-//         try {
-//             const data = questions();
-//             const readme = generateMarkdown(data);
-//             writeFileAsync("README.md", readme);
-//         } catch (err) {
-//             console.log(err);
-//         }
-//     }
- 
-// function call to initialize program
-// init();
