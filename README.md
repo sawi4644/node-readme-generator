@@ -1,5 +1,5 @@
 
-  # gvjhbknlm;'
+  # README Generator
   
   ## Table of Contents
   - [Description](#description)
@@ -10,18 +10,18 @@
   - [License](#license)
   - [Questions](#questions)
   ## Description
-  hgvjbknlm;
+  This is a node command to help a user generate a simple readme.md. By running this program a user can generate a clean and simple readme using this framework.
   ## Installation
-  fgchvjbknl;
+  open terminal, run npm i , run npm i inquirer, then node index.js and it should generate a lovely readme upon answering the questions!
   ## Usage
-  fgchvjbknl;'
+  node index.js
   ## Contribution
-  fghjkl;
+  Yes
   ## Test
-  ]ghjbknlm;
+  node index.js
   ## License
   
   ## Contact for Questions
-  - Github: https://github.com/gvhjklo;k'pl
-  - Email: cgvhjbkl;'
+  - Github: https://github.com/sawi4644
+  - Email: sarakatewilson98@gmail.com
   
