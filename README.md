@@ -12,9 +12,11 @@
   ## Description
   A node application that allows you to generate a simple and clean readme.md markdown for your projects!
   ## Installation
-  fork code, run node index.js in the terminal line
+  fork code into VS Code, open terminal, run npm i in the command line, then run node index.js 
   ## Usage
-  terminal line and node index.js
+  
+  
+  https://github.com/sawi4644/node-readme-generator
   ## Contribution
   Yes, I am open to contributions
   ## Test
