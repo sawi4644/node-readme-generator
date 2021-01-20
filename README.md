@@ -1,5 +1,5 @@
 
-  # Test
+  # Readme Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   - [Description](#description)
@@ -10,15 +10,15 @@
   - [License](#license)
   - [Questions](#questions)
   ## Description
-  
+  A node application that allows you to generate a simple and clean readme.md markdown for your projects!
   ## Installation
-  
+  fork code, run node index.js in the terminal line
   ## Usage
-  
+  terminal line and node index.js
   ## Contribution
-  
+  Yes, I am open to contributions
   ## Test
-  
+  node index.js
   ## License
   MIT License
 
@@ -42,6 +42,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
   ## Contact for Questions
-  - Github: https://github.com/
-  - Email: 
+  - Github: https://github.com/sawi4644
+  - Email: sarakatewilson98@gmail.com
   

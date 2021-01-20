@@ -400,7 +400,7 @@ SOFTWARE.`;
     defined by the Mozilla Public License, v. 2.0.
   `;
 
-  const wtfpl= `DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  const wtfpl= `DO WHAT THE F*CK YOU WANT TO PUBLIC LICENSE
           Version 2, December 2004
 
 Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
